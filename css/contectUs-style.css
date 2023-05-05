@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Allert Stancil;
+    src: url("../fonts/AllertaStencil-Regular.ttf");
+}
+
+.container {
+    width: 300px;
+    height: 400px;
+}
